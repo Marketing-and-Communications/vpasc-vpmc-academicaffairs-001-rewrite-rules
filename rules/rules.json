@@ -19,7 +19,7 @@
     "/About/Staff /office-of-the-provost/index.html [R=301,L,NC]",
     "/About/Contact /index.html [R=301,L,NC]",
     "^/About$ /office-of-the-provost/index.html [R=301,L,NC]",
-    "/Accreditation /reporting-units/accreditation/index.html [R=301,L,NC]",
+    "^/Accreditation$ /reporting-units/accreditation/index.html [R=301,L,NC]",
     "/Student-Achievement /index.html [R=301,L,NC]",
     "/AACDC /reporting-units/index.html [R=301,L,NC]",
     "/Tradition-of-Excellence-Awards /index.html [R=301,L,NC]",
