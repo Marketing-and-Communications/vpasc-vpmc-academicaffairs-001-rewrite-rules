@@ -1,4 +1,5 @@
 [
+    "/office-of-the-provost/leadership.html https://provost.tamu.edu/leadership.html [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
